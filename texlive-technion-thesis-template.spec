@@ -3,7 +3,7 @@ Version:	49889
 Release:	2
 Summary:	Template for theses on the Technion graduate school
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/technion-thesis-template
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/technion-thesis-template
 License:	cc-by-4
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/technion-thesis-template.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/technion-thesis-template.doc.r%{version}.tar.xz
